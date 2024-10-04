@@ -1,0 +1,3 @@
+db=rufat
+dbUser=rufat
+dbKey=123456
